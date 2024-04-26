@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj29k&label=Profile%20views&color=0e75b6&style=flat" alt="manoj29k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoj29k" alt="manoj29k" /></a> </p>
-
 - 🔭 I’m currently working on **Final Project to validate my certificate**
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
