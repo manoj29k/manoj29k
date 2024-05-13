@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Manoj</h1>
-<h3 align="center">I am a beginer in developpement web an dweb mobile</h3>
+<h3 align="center">I am a beginer in developpement web and web mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj29k&label=Profile%20views&color=0e75b6&style=flat" alt="manoj29k" /> </p>
 
