@@ -20,4 +20,4 @@
 
 
 
-<h3 align="center">Koala</h3>
+<h3 align="center">Koala SCSS</h3>
